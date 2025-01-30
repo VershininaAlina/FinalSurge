@@ -15,7 +15,7 @@ public class LoginTest {
     @Test(testName = "Тест проверка корректной авториазции ",
             description = "Тест проверка корректной авториазции "
     )
-    @Description("Тест проверка корректной авториазции ")
+    @Description("Тест проверка корректной Авторизации ")
     @Severity(SeverityLevel.NORMAL)
     @Epic("finalsurge. - 1.0")
     @Feature("Login")
